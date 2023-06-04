@@ -18,8 +18,7 @@ TensorFlow 石头剪刀布模型生成
 • 测 试 集 ： https://storage.googleapis.com/learningdatasets/rps-test-set.zip
 • 验证下载的数据集（打印图片）
 实验步骤2
-• 使用TensorFlow中包含的神经网络库Keras进行
-模型训练
+• 使用TensorFlow中包含的神经网络库Keras进行模型训练
 • 图片预处理
 • 定义模型架构（Sequential）
 • 编译模型（compile）：定义相关参数，如损失函数
@@ -28,4 +27,11 @@ loss，性能指标（经常为accuracy）
 实验步骤3
 生成模型的验证
 • 以绘制图形的方式验证生成模型的性能
-基于TensorFlow Lite Model Maker的花卉模型生成
+TensorFlow 石头剪刀布模型生成
+![image](https://github.com/865256336/shiyan5/assets/107561613/f9d67442-c349-4af1-b29c-04c41b4b5734)
+![image](https://github.com/865256336/shiyan5/assets/107561613/112f937f-c7dc-43dd-9d2b-5c2d6adb72ff)
+![image](https://github.com/865256336/shiyan5/assets/107561613/aa870d52-219d-46ce-bf65-4f42a4692ca4)
+![image](https://github.com/865256336/shiyan5/assets/107561613/86f37ad6-77e3-45f2-b798-ec9ed7a4c828)
+![image](https://github.com/865256336/shiyan5/assets/107561613/327c62e0-07e6-4aa1-bdf8-0015bb9446b4)
+![c9cab14204ac49cfb0ca235797ffce25](https://github.com/865256336/shiyan5/assets/107561613/9ddccb67-b6d6-480a-9bf7-b8c426e0769b)
+
